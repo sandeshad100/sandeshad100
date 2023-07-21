@@ -1,22 +1,26 @@
 # Welcome to My GitHub Profile 👋
 
-![Profile Banner](https://your-image-url-here.jpg)
-
-Hello there! I'm [Your Name], a passionate frontend developer with a flair for crafting immersive user experiences. I'm always excited to learn and experiment with the latest technologies to create stunning web applications. Feel free to explore my repositories and projects to get a glimpse of my work.
+<!-- ![Profile Banner](https://your-image-url-here.jpg)  -->
+ 
+Hello there! I'm Sandesh Adhikari a passionate frontend developer with a flair for crafting immersive user experiences. I'm always excited to learn and experiment with the latest technologies to create stunning web applications. Feel free to explore my repositories and projects to get a glimpse of my work.
 
 ## 🔭 Current Projects
 
 Here are some of the exciting projects I'm currently working on:
+0. **TapShare**
+  - Description: File/text sharing platform with no login/authentication hassel.
+  - Live Demo: tapShare(https://tapshare.xyz/) 
 
-1. **Project Name 1**
-   - Description: A responsive e-commerce platform built using React and Redux.
-   - Demo: [Live Demo](https://project1-demo-url.com)
-   - Repository: [Project1 Repository](https://github.com/your-username/project1)
+1. **House Rental**
+   - Description: A responsive house rental platform built using HTML/Bootstrap and PHP.
+   <!-- Demo: [Live Demo](https://project1-demo-url.com)
+   - Repository: [Project1 Repository](https://github.com/your-username/project1) -->
 
-2. **Project Name 2**
-   - Description: A sleek portfolio website showcasing my frontend skills and projects.
-   - Demo: [Live Demo](https://project2-demo-url.com)
-   - Repository: [Project2 Repository](https://github.com/your-username/project2)
+2. **IT CLUB ITAHARI**
+   - Description: Community of IT enthusiastic and IT students from all over Nepal including east Itahari.
+   - Aims to create vibrant IT community in east Nepal, focused on empowering IT students via training, session,workshop, tech support etc. 
+   - Facebook Group: IT Club Itahari(https://www.facebook.com/groups/itclubitahari)
+  
 
 ## 🌱 Learning & Skills
 
@@ -25,8 +29,6 @@ I'm always eager to expand my skillset and currently, I'm diving deeper into the
 - React.js
 - TypeScript
 - CSS-in-JS (Emotion)
-- Next.js
-- UI/UX Design
 
 ## 👯 Let's Collaborate
 
@@ -40,9 +42,8 @@ If you have any questions about my projects, technologies I use, or frontend dev
 
 You can reach out to me via the following platforms:
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- LinkedIn: [Sandesh Adhikari](https://www.linkedin.com/in/your-username)
+- Facebook: [Sandesh Adhikari](https://www.facebook.com/sandesh.adhikari.10485/)
 
 ## 😄 Pronouns
 
@@ -50,7 +51,7 @@ He/Him
 
 ## ⚡ Fun Fact
 
-In addition to coding, I enjoy exploring new hiking trails and experimenting with cooking exotic dishes!
+In addition to coding and making an impact, I am a multi-passionate person. I find joy in various activities, including performing magic tricks, playing chess, exploring startup ideas, and diving into entrepreneurship ventures!
 
 ---
 
