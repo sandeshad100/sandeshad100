@@ -1,4 +1,4 @@
-# Welcome to My Valley 👋
+# Welcome to My Studio 👋
 
 <!-- ![Profile Banner](https://your-image-url-here.jpg)  -->
  
