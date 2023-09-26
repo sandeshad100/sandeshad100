@@ -1,4 +1,4 @@
-# Welcome to My Studio 👋
+# Welcome to the stack👋
 
 <!-- ![Profile Banner](https://your-image-url-here.jpg)  -->
  
