@@ -14,8 +14,8 @@ Here are some of the exciting projects I'm currently working on:
 
 1. **House Rental**
    - Description: A responsive house rental platform built using HTML/Bootstrap and PHP.
-   <!-- Demo: [Live Demo](https://project1-demo-url.com)
-   - Repository: [Project1 Repository](https://github.com/your-username/project1) -->
+     Demo: sajilokotha.com(https://sajilokotha.com/)
+
 
 2. **IT CLUB ITAHARI**
    - Description: Community of IT enthusiastic and IT students from all over Nepal including east Itahari.
@@ -27,9 +27,8 @@ Here are some of the exciting projects I'm currently working on:
 
 I'm always eager to expand my skillset and currently, I'm diving deeper into the following technologies:
 
-- React.js
-- TypeScript
-- CSS-in-JS (Emotion)
+- ReactJS
+- NodeJS
 
 ## 👯 Let's Collaborate
 
