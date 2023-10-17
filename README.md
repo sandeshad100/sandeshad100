@@ -13,7 +13,7 @@ Here are some of the exciting projects I'm currently working on:
    - Live Demo: tapShare https://tapshare.xyz/
 
 1. **AutoCodeTube**
-   - Description: Innovative productivity tool for Coding Content Creators, VScode Extenstion.
+   - Innovative productivity tool for Coding Content Creators, VScode Extenstion.
      Repository: AutoCodeTube https://github.com/sandeshad100/AutoCodeTube
 
 2. **House Rental**
