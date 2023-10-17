@@ -8,7 +8,7 @@ Hello there! I'm Sandesh Adhikari a passionate frontend developer with a flair f
 
 Here are some of the exciting projects I'm currently working on:
 
-0. **IT CLUB ITAHARI**
+0. **TapShare**
    - File/text sharing platform with no login/authentication hassel.
    - Live Demo: tapShare https://tapshare.xyz/
 
