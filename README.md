@@ -10,14 +10,18 @@ Here are some of the exciting projects I'm currently working on:
 
 0. **TapShare**
   - Description: File/text sharing platform with no login/authentication hassel.
-  - Live Demo: tapShare(https://tapshare.xyz/) 
+  - Live Demo: tapShare(https://tapshare.xyz/)
 
-1. **House Rental**
+1. **AutoCodeTube**
+   - Description: Innovative productivity tool for Coding Content Creators, VScode Extenstion.
+     Repository: AutoCodeTube(https://github.com/sandeshad100/AutoCodeTube)
+
+2. **House Rental**
    - Description: A responsive house rental platform built using HTML/Bootstrap and PHP.
      Demo: sajilokotha.com(https://sajilokotha.com/)
 
 
-2. **IT CLUB ITAHARI**
+3. **IT CLUB ITAHARI**
    - Description: Community of IT enthusiastic and IT students from all over Nepal including east Itahari.
    - Aims to create vibrant IT community in east Nepal, focused on empowering IT students via training, session,workshop, tech support etc. 
    - Facebook Group: IT Club Itahari(https://www.facebook.com/groups/itclubitahari)
