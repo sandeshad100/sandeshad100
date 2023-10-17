@@ -8,9 +8,9 @@ Hello there! I'm Sandesh Adhikari a passionate frontend developer with a flair f
 
 Here are some of the exciting projects I'm currently working on:
 
-0. **TapShare**
-  - File/text sharing platform with no login/authentication hassel.
-  - Live Demo: tapShare https://tapshare.xyz/
+0. **IT CLUB ITAHARI**
+   - File/text sharing platform with no login/authentication hassel.
+   - Live Demo: tapShare https://tapshare.xyz/
 
 1. **AutoCodeTube**
    - Description: Innovative productivity tool for Coding Content Creators, VScode Extenstion.
@@ -19,7 +19,6 @@ Here are some of the exciting projects I'm currently working on:
 2. **House Rental**
    - A responsive house rental platform built using HTML/Bootstrap and PHP.
      Demo: sajilokotha.com https://sajilokotha.com/
-
 
 3. **IT CLUB ITAHARI**
    - Community of IT enthusiastic and IT students from all over Nepal including east Itahari.
