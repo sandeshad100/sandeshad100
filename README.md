@@ -24,7 +24,7 @@ Here are some of the exciting projects I'm currently working on:
 3. **IT CLUB ITAHARI**
    - Description: Community of IT enthusiastic and IT students from all over Nepal including east Itahari.
    - Aims to create vibrant IT community in east Nepal, focused on empowering IT students via training, session,workshop, tech support etc. 
-   - Facebook Group: IT Club Itahari(https://www.facebook.com/groups/itclubitahari)
+   - Facebook Group: IT Club Itahari https://www.facebook.com/groups/itclubitahari
   
 
 ## 🌱 Learning & Skills
