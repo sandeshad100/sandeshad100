@@ -8,10 +8,6 @@ Hello there! I'm Sandesh Adhikari a passionate frontend developer with a flair f
 
 Here are some of the exciting projects I'm currently working on:
 
-0. **TapShare**
-   - File/text sharing platform with no login/authentication hassel.
-   - Live Demo: tapShare https://tapshare.xyz/
-
 1. **AutoCodeTube**
    - Innovative productivity tool for Coding Content Creators, VScode Extenstion.
      Repository: AutoCodeTube https://github.com/sandeshad100/AutoCodeTube
