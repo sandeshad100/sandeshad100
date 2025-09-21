@@ -1,8 +1,8 @@
-# Frontend Developer and Interface Design Specialist
+# Fullstack Developer 
 
 <!-- ![Profile Banner](https://your-image-url-here.jpg)  -->
  
-Hello there! I'm Sandesh Adhikari a passionate frontend developer with a flair for crafting immersive user experiences. I'm always excited to learn and experiment with the latest technologies to create stunning web applications. Feel free to explore my repositories and projects to get a glimpse of my work. Here is my portfolio site: https://sandeshadhikari1.com.np
+Hello there! I'm Sandesh Adhikari a passionate full stack developer with a flair for crafting immersive user experiences. I'm always excited to learn and experiment with the latest technologies to create stunning web applications. Feel free to explore my repositories and projects to get a glimpse of my work. Here is my portfolio site: https://sandeshadhikari1.com.np
 
 ## 🔭 Current Projects
 
