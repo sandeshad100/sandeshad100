@@ -26,8 +26,8 @@ Here are some of the exciting projects I'm currently working on:
 
 I'm always eager to expand my skillset and currently, I'm diving deeper into the following technologies:
 
-- ReactJS
-- NodeJS
+- AI
+- LLM
 
 ## 👯 Let's Collaborate
 
